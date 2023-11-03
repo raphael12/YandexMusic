@@ -289,6 +289,16 @@ ORIGINAL     86 штук
         <td>0,546999</td>
         <td>0,541 </td>
     </tr>
+    <tr>
+        <td>SBERT + Faiss(IndexIMIFlat)</td>
+        <td>48,039</td>
+        <td>93,137</td>
+        <td>96,405</td>
+        <td>0,011999</td>
+        <td>0,008004</td>
+        <td>0,007999 </td>
+    </tr>
+
 </table>
 
 ## Ранжирование
